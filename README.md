@@ -67,3 +67,9 @@ $ git merge upstream/master
 >  README.md                 |    5 +++--
 >  1 file changed, 3 insertions(+), 2 deletions(-)
 ```
+
+update these change to your master
+
+```
+$ git push orign master
+```
