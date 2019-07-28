@@ -1,3 +1,5 @@
+# Syncing a fork
+
 Open Terminal.
 
 List the current configured remote repository for your fork.
